@@ -14,7 +14,7 @@ int main() {
 	char name[100], longest[100];
 	int maxLen = 0;
 
-	cout << "5 명의 이름을 ';'으로 구분하여 입력하세요\n>>";
+	cout << "5 명의 이름을 ';'으로 구분하여 입력하세요\n>>"; // 'Mozart;Elvis Presley;Jim Carry;Schubert;Dominggo;'
 	for (int i = 0; i <= 4; i++) {
 		cin.getline(name, 100, ';');
 		cout << i + 1 << " : " << name << "\n";
