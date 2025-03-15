@@ -4,6 +4,8 @@
 // 2장 (Chapter.02) 실습문제
 // Problem.4
 
+// 소수점을 가지는 5개의 실수 중 제일 큰 수를 출력하는 문제.
+
 #include <iostream>
 using namespace std;
 int main() {
