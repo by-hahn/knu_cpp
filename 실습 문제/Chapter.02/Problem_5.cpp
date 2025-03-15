@@ -18,6 +18,6 @@ int main() {
         }
         i++;
     }
-    std::cout << "x의 개수는 " << count;
+    cout << "x의 개수는 " << count;
     return 0;
 }
