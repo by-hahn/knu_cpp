@@ -4,6 +4,8 @@
 // 2장 (Chapter.02) 실습문제
 // Problem.3
 
+// 두 정수 중 큰 수 판별하는 문제.
+
 #include <iostream>
 using namespace std;
 int main() {
