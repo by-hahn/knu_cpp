@@ -4,6 +4,8 @@
 // 2장 (Chapter.02) 실습문제
 // Problem.5
 
+// <Enter>키가 입력되기 전까지 입력된 'x'의 개수 출력하는 문제.(cin.getline 이용하기)
+
 #include <iostream>
 using namespace std;
 int main() {
