@@ -12,10 +12,10 @@ int main() {
 	cin >> num1 >> num2;
 
 	if (num1 >= num2) {
-		std::cout << "큰 수 = " << num1;
+		cout << "큰 수 = " << num1;
 	}
 	else if (num1 < num2) {
-		std::cout << "큰 수 = " << num2;
+		cout << "큰 수 = " << num2;
 	}
 	return 0;
 }
