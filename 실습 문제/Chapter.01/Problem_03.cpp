@@ -4,6 +4,8 @@
 // 1장 (Chapter.01) 실습문제
 // Problem.3
 
+// 1부터 10까지 더한 값을 출력하는 문제.
+
 #include <iostream>
 int main() {
 	int sum = 0;
