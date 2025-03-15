@@ -18,10 +18,10 @@ int main() {
     cin >> password_check;
 
     if (strcmp(password, password_check) == 0) {
-        std::cout << "같습니다";
+        cout << "같습니다";
     }
     else {
-        std::cout << "같지 않습니다";
+        cout << "같지 않습니다";
     }
     return 0;
 }
