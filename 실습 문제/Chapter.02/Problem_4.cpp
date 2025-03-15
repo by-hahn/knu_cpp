@@ -18,6 +18,6 @@ int main() {
 			max = arr[i];
 		}
 	}
-	std::cout << "제일 큰 수 = " << max;
+	cout << "제일 큰 수 = " << max;
 	return 0;
 }
