@@ -8,7 +8,7 @@
 
 #include <iostream>
 using namespace std;
-int sum(int a, int b); // C++은 함수의 원형 선언 시, 매개 변수를 모두 선언해야 함. (*wnddy)
+int sum(int a, int b); // C++은 함수의 원형 선언 시, 매개 변수를 모두 선언해야 함. (*중요)
 
 int main() {
 	int n = 0;
