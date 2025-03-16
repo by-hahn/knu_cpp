@@ -18,7 +18,7 @@ int main() {
         cin >> num1 >> oper >> num2;
         switch (oper) {
         case '+':
-            cout << num1 << " " << oper << " " << num2 << " = " << num1 + num2 << "\n";
+            cout << num1 << " " << oper << " " << num2 << " = " << num1 + num2 << "\n";  // " " << oper << " " 대신에 그냥 " + " 이용해도 되긴함.
             break;
         case '-':
             cout << num1 << " " << oper << " " << num2 << " = " << num1 - num2 << "\n";
